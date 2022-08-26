@@ -68,4 +68,16 @@ https://stackoverflow.com/questions/21964768/simple-java-2d-graphics-draw-a-rect
 https://en.wikipedia.org/wiki/Tetromino 
 https://stackoverflow.com/questions/12335121/initializing-a-graphics-variable
 https://docs.oracle.com/javase/7/docs/api/java/awt/event/KeyListener.html
+https://stackoverflow.com/questions/4219511/draw-rectangle-border-thickness
+https://stackoverflow.com/questions/32683331/can-multiple-colors-be-used-on-items-in-a-single-jframe
+https://www.delftstack.com/howto/java/java-paintcomponent/
+https://docs.oracle.com/javase/7/docs/api/java/awt/Graphics.html
+https://stackoverflow.com/questions/8065532/how-to-randomly-pick-an-element-from-an-array
+https://stackoverflow.com/questions/10876491/how-to-use-keylistener
+https://softwareengineering.stackexchange.com/questions/254618/java-how-can-i-make-the-return-type-of-an-inherited-method-in-a-subclass-the
+https://stackoverflow.com/questions/12335121/initializing-a-graphics-variable
+https://www.codejava.net/java-se/graphics/drawing-lines-examples-with-graphics2d
+https://stackoverflow.com/questions/13497289/how-to-initialize-graphics-g
+https://stackoverflow.com/questions/21964768/simple-java-2d-graphics-draw-a-rectangle
+https://stackoverflow.com/questions/9713432/drawing-simple-rectangles-on-a-jframe-in-java
 */
