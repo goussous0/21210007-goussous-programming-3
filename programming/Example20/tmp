@@ -1,0 +1,104 @@
+
+
+
+
+//           0 1 2 3 4 5 6  7  8   9   10  11   12 
+int arr[] = {1,2,3,4,5,6,11,22,66,100 ,150,170 ,200};
+int key = 66;
+
+
+first call 
+	start = 0 
+	end   = 13
+	mid = 13/2 = 6
+
+	arr[6] = 11 
+
+	arr[6] == 66 false 
+	
+	arr[6] > 66 false 
+	
+	arr[6] < 66 true 
+
+	{
+		set start index to mid+1 (6)
+		set end   index to end   (13)
+
+		{ 66, 100, 150, 170 ,200 }
+	}
+
+second call 
+	start = 6 
+	end = 13	
+	mid = (6+13) /2 = 9 
+
+	arr[9] = 100
+
+	arr[9] == 66 false 
+	
+	arr[9] > 66 true
+	{
+		set start to start (6)
+		set end to mid+1 (10)
+		{11 ,22 , 66, 150 }
+	}
+	arr[9] < 66 false 
+
+third call 
+	start = 6 
+	end =  10
+	
+	mid = 8 
+
+	arr[8] =  66
+
+	arr[8] == 66 true 
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
